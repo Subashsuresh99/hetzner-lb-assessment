@@ -122,14 +122,28 @@ Evidence
 Screenshots captured for:
 
 Terraform version
+### Terraform Version
+![Terraform Version](Evidence/Terraform%20Version.png)
+
 
 terraform validate
 
+### Terraform Validate
+![Terraform Validate](Evidence/Terraform%20Validate.png)
+
 Successful terraform apply + outputs
+### Terraform Apply / Outputs
+![Terraform Apply Output](Evidence/Terraform%20Apply.png)
+
 
 Load balancer test output showing distribution
+### Load Balancer Test Output
+![Test Output](Evidence/Test%20Output.png)
+
 
 Successful terraform destroy
+### Terraform Destroy
+![Terraform Destroy](Evidence/Terraform%20Destroy.png)
 
 
    
